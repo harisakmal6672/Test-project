@@ -10,11 +10,11 @@
   "author": "toeverything",
   "license": "MIT",
   "dependencies": {
-    "@blocksuite/global": "workspace:*",
+    "@blocksuite/global": "0.4.0",
     "@types/lodash-es": "^4.17.12",
     "idb": "^8.0.0",
     "idb-keyval": "^6.2.1",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "rxjs": "^7.8.1",
     "y-protocols": "^1.0.6"
   },
